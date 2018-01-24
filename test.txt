@@ -1,0 +1,12 @@
+1 ms
+1 kmh
+1 mph
+1 kn
+2 ms
+2 kmh
+2 mph
+2 kn
+3 ms
+3 kmh
+3 mph
+3 kn
